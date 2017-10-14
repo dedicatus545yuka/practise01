@@ -1,7 +1,7 @@
 # practise01
 全局佈局  
 ### 昨天就要发的今天只是补上，图片这东西怎么在这修改大小啊，真是麻烦:dizzy_face:
-![案例要求](http://a1.qpic.cn/psb?/V118JuTr3rHMrA/U.BSgaMOOnZ6xQuK6RyMVcWUm72g4ndVVMlvg0YWEzI!/b/dPMAAAAAAAAA&bo=GwWAAgAAAAADB74!&rf=viewer_4 =600x400)  
+![案例要求](http://a1.qpic.cn/psb?/V118JuTr3rHMrA/U.BSgaMOOnZ6xQuK6RyMVcWUm72g4ndVVMlvg0YWEzI!/b/dPMAAAAAAAAA&bo=GwWAAgAAAAADB74!&rf=viewer_4)  
 ```html
 <!DOCTYPE html>
 <html lang="en">
